@@ -30,4 +30,4 @@ Prospecting -> Proposal -> Negotiation -> Won/Lost
 
 Sales, Support and Communication History now have Add/Edit/Delete functionality.
 
-No JavaScript is required for these modules.
+
